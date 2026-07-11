@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm **Michael** a **Full-Stack Developer** building B2B SaaS products with Next.js, TypeScript, React, Node.js, and Prisma..
+I'm **Michael** a **Full-Stack Developer** building B2B SaaS products with Next.js, TypeScript, React, Node.js, and Prisma.
 
 Complex logic should feel simple to the user. I combine the power of **Next.js (App Router)** and **Server Actions** with the fluidity of **Framer Motion** to create interfaces that breathe.
 
