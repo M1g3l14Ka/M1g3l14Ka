@@ -35,6 +35,6 @@ Former **WorldSkills Champion** in Mobile Game Dev. Now, I channel that competit
 
 <div align="center">
 
-### [Check out my Portfolio](https://michaelkasion.ru/) • [Message me on Telegram](https://t.me/M1g3L14Ka)
+### [Check out my Portfolio](https://resume.mkfox.tech/) • [Message me on Telegram](https://t.me/M1g3L14Ka)
 
 </div>
